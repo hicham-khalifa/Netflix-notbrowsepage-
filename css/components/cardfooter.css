@@ -1,0 +1,62 @@
+.itemfooter{
+  font-size: 13px;
+  display: inline;
+  width: 225px;
+  height: 16px;$
+  box-sizing: border-box;
+  padding: 0;
+  margin-bottom: 16px;
+  display: inline-block;
+  min-width: 100px;
+  width: 25%;
+  padding-right: 12px;
+  vertical-align: top;
+}
+
+.list-inline{
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+
+#list-inline li:hover{
+  text-decoration-line: underline;
+}
+
+
+.cardfooter{
+  font-size: 13px;
+  margin: 0 175px;
+  min-width: 190px;
+  width: 100%;
+  margin-top: 80px;
+  padding-bottom: 20px;
+  font-size: 1em;
+  color: #757575;
+  position: relative;
+}
+
+#choixlangue{
+direction: ltr;
+font: inherit;
+margin: 0;
+text-transform: none;
+background: #fff;
+border-radius: 2px;
+width: 100%;
+padding: 12px;
+background-color: #000000;
+background-image: none;
+border: 1px solid #333333;
+color: #999;
+font-size: 16px;
+padding-left: 50px;
+line-height: 1.7;
+text-indent: 0;
+padding-right: 26px;
+}

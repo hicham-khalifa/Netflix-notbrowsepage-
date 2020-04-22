@@ -1,0 +1,19 @@
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/header.css");
+@import url("components/content.css");
+@import url("components/faq.css");
+@import url("components/cardfooter.css");
+
+
+body{
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+background-color: #f3f3f3;
+color: #333333;
+font-size: 16px;
+direction: ltr;
+-webkit-font-smoothing: antialiased;
+min-width: 320px;
+margin: 0;
+box-sizing: border-box;
+}

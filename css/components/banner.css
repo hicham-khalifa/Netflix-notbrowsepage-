@@ -1,0 +1,77 @@
+.banner #cardprincipal {
+  background: rgba(0, 0, 0, 0.4);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(../../images/netimage.jpg);
+  background-size: 100%;
+  box-sizing: border-box;
+  border-bottom: 8px solid #222222;
+}
+
+.header{
+  color: transparent;
+font-size: 16px;
+direction: ltr;
+-webkit-font-smoothing: antialiased;
+font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+background-color: transparent;
+transition: background-color 0.5s;
+position: absolu;
+max-width: 1920px;
+margin: 0 auto;
+padding:20px  0 0;
+width: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+z-index: 10;
+height: 4rem;
+border:0px;
+
+}
+
+
+.text{
+direction: ltr;
+font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+color: white;
+text-align: center;
+position: relative;
+width: 100%;
+padding: 75px 0;
+max-width: 640px;
+margin: 0 auto;
+text-align: center;
+z-index: 1;
+margin-bottom: 64px;
+
+}
+
+.text h1 {
+line-height: 1.1;
+margin: 0 auto;
+font-size: 3.125rem;
+max-width: 640px;
+}
+
+.text h2 {
+font-weight: normal;
+font-size: 1.625rem;
+margin: 1rem auto;
+max-width: 640px;
+}
+
+form{
+direction: ltr;
+font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+color: white;
+text-align: center;
+font-size: 1.625rem;
+font-weight: normal;
+display: flex;
+max-width: 950px;
+padding-top: .85rem;
+flex-flow: column-reverse;
+margin: 0 auto;
+}
+
+
